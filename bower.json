@@ -1,7 +1,7 @@
 {
 	"name": "aureooms-js-countingsort",
 	"description": "countingsort code bricks for JavaScript",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"main": "js/dist/countingsort.js",
 	"homepage": "http://aureooms.github.io/js-countingsort/",
 	"ignore": [
