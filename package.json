@@ -1,0 +1,36 @@
+{
+	"keywords": [
+		"bricks",
+		"countingsort",
+		"ender",
+		"javascript",
+		"js",
+		"sorting"
+	],
+	"name": "aureooms-js-countingsort",
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"version": "0.0.0",
+	"main": "js/dist/countingsort.js",
+	"devDependencies": {
+		"aureooms-node-package": "^4.2.3"
+	},
+	"spm": {
+		"main": "js/dist/countingsort.js"
+	},
+	"homepage": "http://aureooms.github.io/js-countingsort/",
+	"description": "countingsort code bricks for JavaScript",
+	"author": "aureooms",
+	"repository": {
+		"url": "https://github.com/aureooms/js-countingsort.git",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/aureooms/js-countingsort/issues"
+	},
+	"dependencies": {},
+	"license": "AGPL-3.0"
+}

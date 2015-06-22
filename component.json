@@ -1,0 +1,11 @@
+{
+	"name": "aureooms-js-countingsort",
+	"description": "countingsort code bricks for JavaScript",
+	"version": "0.0.0",
+	"main": "js/dist/countingsort.js",
+	"repo": "aureooms/js-countingsort",
+	"scripts": [
+		"js/dist/countingsort.js"
+	],
+	"license": "AGPL-3.0"
+}
