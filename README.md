@@ -1,7 +1,8 @@
 [js-countingsort](http://aureooms.github.io/js-countingsort)
 ==
 
-countingsort code bricks for JavaScript
+Countingsort code bricks for JavaScript. Parent is
+[aureooms/js-sort](https://github.com/aureooms/js-sort).
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-countingsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-countingsort/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-countingsort.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-countingsort)
