@@ -16,7 +16,7 @@
 	"version": "0.0.1",
 	"main": "js/dist/countingsort.js",
 	"devDependencies": {
-		"aureooms-node-package": "^4.2.3"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"spm": {
 		"main": "js/dist/countingsort.js"
