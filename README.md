@@ -4,7 +4,7 @@
 Countingsort code bricks for JavaScript. Parent is
 [aureooms/js-sort](https://github.com/aureooms/js-sort).
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-countingsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-countingsort/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-countingsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-countingsort/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-countingsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-countingsort)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-countingsort.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-countingsort)
 [![Build Status](https://img.shields.io/travis/aureooms/js-countingsort.svg?style=flat)](https://travis-ci.org/aureooms/js-countingsort)
