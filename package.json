@@ -7,7 +7,7 @@
 		"js",
 		"sorting"
 	],
-	"name": "aureooms-js-countingsort",
+	"name": "@aureooms/js-countingsort",
 	"scripts": {
 		"doc": "./node_modules/.bin/groc",
 		"build": "./node_modules/.bin/aureooms-node-package-build",
