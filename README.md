@@ -1,4 +1,4 @@
-[js-countingsort](http://aureooms.github.io/js-countingsort)
+[js-countingsort](http://make-github-pseudonymous-again.github.io/js-countingsort)
 ==
 
 Countingsort code bricks for JavaScript. Parent is

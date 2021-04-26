@@ -3,7 +3,7 @@
 	"description": "countingsort code bricks for JavaScript",
 	"version": "0.0.1",
 	"main": "js/dist/countingsort.js",
-	"homepage": "http://aureooms.github.io/js-countingsort/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-countingsort/",
 	"ignore": [
 		"js/index.js",
 		"js/src",
