@@ -25,11 +25,11 @@
 	"description": "countingsort code bricks for JavaScript",
 	"author": "aureooms",
 	"repository": {
-		"url": "https://github.com/aureooms/js-countingsort.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-countingsort.git",
 		"type": "git"
 	},
 	"bugs": {
-		"url": "https://github.com/aureooms/js-countingsort/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-countingsort/issues"
 	},
 	"dependencies": {},
 	"license": "AGPL-3.0"

@@ -2,19 +2,19 @@
 ==
 
 Countingsort code bricks for JavaScript. Parent is
-[aureooms/js-sort](https://github.com/aureooms/js-sort).
+[aureooms/js-sort](https://github.com/make-github-pseudonymous-again/js-sort).
 
-[![License](https://img.shields.io/github/license/aureooms/js-countingsort.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-countingsort/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-countingsort/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-countingsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-countingsort)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-countingsort.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-countingsort)
-[![Build Status](https://img.shields.io/travis/aureooms/js-countingsort.svg?style=flat)](https://travis-ci.org/aureooms/js-countingsort)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-countingsort.svg?style=flat)](https://coveralls.io/r/aureooms/js-countingsort)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-countingsort.svg?style=flat)](https://david-dm.org/aureooms/js-countingsort#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-countingsort.svg?style=flat)](https://david-dm.org/aureooms/js-countingsort#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-countingsort.svg?style=flat)](https://codeclimate.com/github/aureooms/js-countingsort)
+[![Build Status](https://img.shields.io/travis/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://travis-ci.org/make-github-pseudonymous-again/js-countingsort)
+[![Coverage Status](https://img.shields.io/coveralls/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://coveralls.io/r/make-github-pseudonymous-again/js-countingsort)
+[![Dependencies Status](https://img.shields.io/david/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-countingsort#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-countingsort#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://codeclimate.com/github/make-github-pseudonymous-again/js-countingsort)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-countingsort.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-countingsort)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-countingsort.svg?style=flat)](https://github.com/aureooms/js-countingsort/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-countingsort.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-countingsort)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-countingsort.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-countingsort/issues)
+[![Inline docs](http://inch-ci.org/github/make-github-pseudonymous-again/js-countingsort.svg?branch=master&style=shields)](http://inch-ci.org/github/make-github-pseudonymous-again/js-countingsort)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
 [duo](https://github.com/duojs/duo),
